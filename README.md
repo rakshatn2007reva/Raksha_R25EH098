@@ -1,1 +1,2 @@
 # Raksha_R25EH098
+Hi, I'm Raksha, a second-year Computer Science Engineering student specializing in Artificial Intelligence and Data Science at Reva University. I'm passionate about learning programming, exploring new technologies, and building projects that help me improve my technical skills. I'm currently developing my knowledge of Python, C, and web development while documenting my learning journey through GitHub.
